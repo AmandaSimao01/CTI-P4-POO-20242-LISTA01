@@ -25,7 +25,7 @@ o usuário deseja alcançar subindo a escada, calcule e mostre quantos degraus e
 atingir seu objetivo, sem se preocupar com a altura do usuário. Todas as medidas fornecidas devem
 estar em metros.
 
-22 -Sabe-se que o quilowatt de energia custa um quinto do salário mínimo. Faça um programa que rece-
+22 - Sabe-se que o quilowatt de energia custa um quinto do salário mínimo. Faça um programa que rece-
 ba o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência. Calcule e mostre:
 a) o valor de cada quilowatt;
 b) o valor a ser pago por essa residência;
