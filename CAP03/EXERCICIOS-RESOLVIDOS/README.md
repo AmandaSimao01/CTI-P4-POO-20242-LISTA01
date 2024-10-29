@@ -19,3 +19,8 @@ b) quantos anos ela terá em 2050.
 17 - Um trabalhador recebeu seu salário e o depositou em sua conta bancária. Esse trabalhador emitiu dois
 cheques e agora deseja saber seu saldo atual. Sabe-se que cada operação bancária de retirada paga
 CPMF de 0,38% e o saldo inicial da conta está zerado.
+
+19 - Cada degrau de uma escada tem X de altura. Faça um programa que receba essa altura e a altura que
+o usuário deseja alcançar subindo a escada, calcule e mostre quantos degraus ele deverá subir para
+atingir seu objetivo, sem se preocupar com a altura do usuário. Todas as medidas fornecidas devem
+estar em metros.
