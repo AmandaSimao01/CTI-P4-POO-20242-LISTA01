@@ -24,3 +24,9 @@ CPMF de 0,38% e o saldo inicial da conta está zerado.
 o usuário deseja alcançar subindo a escada, calcule e mostre quantos degraus ele deverá subir para
 atingir seu objetivo, sem se preocupar com a altura do usuário. Todas as medidas fornecidas devem
 estar em metros.
+
+22 -Sabe-se que o quilowatt de energia custa um quinto do salário mínimo. Faça um programa que rece-
+ba o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência. Calcule e mostre:
+a) o valor de cada quilowatt;
+b) o valor a ser pago por essa residência;
+c) o valor a ser pago com desconto de 15%.
