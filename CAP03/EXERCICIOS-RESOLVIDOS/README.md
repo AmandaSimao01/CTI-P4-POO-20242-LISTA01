@@ -30,3 +30,7 @@ ba o valor do salário mínimo e a quantidade de quilowatts consumida por uma re
 a) o valor de cada quilowatt;
 b) o valor a ser pago por essa residência;
 c) o valor a ser pago com desconto de 15%.
+
+25 - Faça um programa que receba o custo de um espetáculo teatral e o preço do convite desse espetáculo.
+Esse programa deverá calcular e mostrar a quantidade de convites que devem ser vendidos para que,
+pelo menos, o custo do espetáculo seja alcançado.
